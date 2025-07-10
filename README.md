@@ -38,11 +38,11 @@ This project demonstrates the power of semantic HTML in creating inclusive and u
 
 ## GitHub Deployment Location (HTTPS)
 
-
+https://kanfachan.github.io/Movie-Review-Page/
 
 ## GitHub Repository Location (HTTPS)
 
-
+https://github.com/Kanfachan/Movie-Review-Page
 
 ## Credits
 
